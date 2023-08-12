@@ -1,0 +1,6 @@
+@import "/asset/vendor/bootstrap/css/bootstrap.min.css";
+@import "/asset/vendor/fontawesome-free/css/all.min.css";
+@import "/asset/css/osahan.css";
+@import "/asset/vendor/owl-carousel/owl.carousel.css";
+@import "/asset/vendor/owl-carousel/owl.theme.css";
+@import "../node_modules/react-datepicker/dist/react-datepicker.css";
